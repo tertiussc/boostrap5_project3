@@ -1,0 +1,26 @@
+/* Customer Nav Styles */
+.custom-nav {
+    font-size: small;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.custom-nav ul.dropdown-menu {
+    font-size: small;
+}
+#register_online > div > div > div.modal-header {
+    border: none !important;
+}
+.custom-gradient {
+    margin-right: 15px;
+    margin-left: 15px;
+    height: 3px;
+    background: rgb(255, 0, 0);
+    background: linear-gradient(
+        90deg,
+        rgba(255, 0, 0, 1) 0%,
+        rgba(245, 243, 14, 1) 35%,
+        rgba(5, 255, 0, 1) 60%,
+        rgba(3, 140, 208, 1) 77%,
+        rgba(255, 0, 249, 1) 100%
+    );
+}
