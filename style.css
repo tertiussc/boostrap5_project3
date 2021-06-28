@@ -10,6 +10,8 @@
 #register_online > div > div > div.modal-header {
     border: none !important;
 }
+
+/* Resgiter Modal */
 .custom-gradient {
     margin-right: 15px;
     margin-left: 15px;
@@ -24,3 +26,11 @@
         rgba(255, 0, 249, 1) 100%
     );
 }
+
+/* Main Banner */
+.main-banner {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background-image: url(img/Banner.jpg);
+    background-size: cover;
+    color: white;
