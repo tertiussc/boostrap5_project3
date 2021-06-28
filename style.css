@@ -34,3 +34,16 @@
     background-image: url(img/Banner.jpg);
     background-size: cover;
     color: white;
+}
+
+/* Features */
+.feature-holder {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+section.features {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    /* background-color: rgb(233, 230, 230); */
+}
