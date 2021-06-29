@@ -47,3 +47,18 @@ section.features {
     padding-bottom: 25px;
     /* background-color: rgb(233, 230, 230); */
 }
+
+/* Online course */
+.online-courses {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.online-courses-text-widget {
+    text-align: center;
+}
+
+.course-card .card-title {
+    font-size: 1.2em;
+    line-height: 25px;
+}
