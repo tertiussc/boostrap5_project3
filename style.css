@@ -50,13 +50,15 @@ section.features {
 
 /* Online course */
 .online-courses,
-.classroom-training {
+.classroom-training,
+.review-slider {
     padding-top: 35px;
     padding-bottom: 35px;
 }
 
 .online-courses-text-widget,
-.classroom-training-text-widget {
+.classroom-training-text-widget,
+.review-slider-widget {
     text-align: center;
 }
 
