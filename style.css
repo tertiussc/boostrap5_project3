@@ -49,16 +49,24 @@ section.features {
 }
 
 /* Online course */
-.online-courses {
+.online-courses,
+.classroom-training {
     padding-top: 35px;
     padding-bottom: 35px;
 }
 
-.online-courses-text-widget {
+.online-courses-text-widget,
+.classroom-training-text-widget {
     text-align: center;
 }
 
 .course-card .card-title {
     font-size: 1.2em;
     line-height: 25px;
+}
+
+/* Training courses */
+.course-list-item:hover {
+    color: black;
+    margin-left: 1px;
 }
